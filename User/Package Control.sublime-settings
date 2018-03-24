@@ -8,8 +8,10 @@
 		"Anaconda",
 		"AutoFileName",
 		"ConvertToUTF8",
+		"Git",
 		"GitGutter",
 		"Package Control",
+		"PackageResourceViewer",
 		"SideBarEnhancements",
 		"SublimeREPL",
 		"SublimeTmpl"
